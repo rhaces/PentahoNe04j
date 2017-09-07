@@ -1,4 +1,9 @@
 ID,created_at,"name","screen_name","text","language","in_reply_to_screen_name","in_reply_to_status_id"
+905879327140663297,2017/09/07 15:43:56 -04:00,"Florent Biville","fbiville","@a_thieriot @neo4j Ahah, cool quand même, du coup :)","fr","a_thieriot","905879193531101185"
+905879193531101185,2017/09/07 15:43:24 -04:00,"Aurélien Thieriot","a_thieriot","@fbiville @neo4j C'est ça qu'ils disent quand ils prennent le téléphone pour se faire sortir de la matrice","fr","fbiville","905879004196065280"
+905879004196065280,2017/09/07 15:42:39 -04:00,"Florent Biville","fbiville","@a_thieriot @neo4j Not a Matrix character, though? Or am I missing something?","en","a_thieriot","905878341894500353"
+905878341894500353,2017/09/07 15:40:01 -04:00,"Aurélien Thieriot","a_thieriot","@fbiville @neo4j Operator?","es","fbiville","905850499215347715"
+905877250888925184,2017/09/07 15:35:41 -04:00,"Ted van Gaalen","tedvga","@neo4j @_nicolemargaret I've merely touched Neo4j it's great, but what if nodes could be dynamic objects that could… https://t.co/c0FeECV7Wk","en","neo4j","905823425507323904"
 905874816753913856,2017/09/07 15:26:01 -04:00,"Nicolas Kosinski","nicokosi","@fbiville @neo4j ""MasterJay"" or ""MasterJey"" ? (masterkey + Java) 🤓","in","fbiville","905850499215347715"
 905873224558370817,2017/09/07 15:19:41 -04:00,"Michael Hunger","mesirii","@rbolduan @meetup_support @neo4j @Meetup Ya the new UI is pretty bad, the old one was clear and well structured, th… https://t.co/tJcPF8Z0vr","en","rbolduan","905792525113446402"
 905872040053407745,2017/09/07 15:14:59 -04:00,"Michael Hunger","mesirii","Really enjoyed presenting on Graph Algorithms with #Neo4j
@@ -92,17 +97,3 @@ Have much fun preparing
 https://t.co/tCfjYhpLWn","en",,
 905746546733588480,2017/09/07 06:56:19 -04:00,"Irio Musskopf","irio","Neo4j is slow as hell when plotting 500+ nodes/relationships. Am I doing something wrong?","en",,
 905746468161568768,2017/09/07 06:56:00 -04:00,"山下","yamamanx","Neo4j、面白い、面白い、がこれも基本のキ、なのか #SendGrid_JP","ja",,
-905733741175300097,2017/09/07 06:05:26 -04:00,"Michael Hunger","mesirii","I'm looking forward to meet all my French friends at the Paris #Neo4j Meetup next Tuesday Sep 12
-Be there to say hi
-
-https://t.co/zpPxVbO62I","en",,
-905733179247616000,2017/09/07 06:03:12 -04:00,"Connected Data LDN","Connected_Data","Adding explicit semantics to graph databases https://t.co/HOsSHuJrtc #Neo4j","en",,
-905730329822072832,2017/09/07 05:51:52 -04:00,"Business Sales","bs_sales12","Neo4j : Learn Leading NoSQL Graph Database from Scratch
-☞ https://t.co/Ft45kqudC9
-#sales #business","en",,
-905726610036457472,2017/09/07 05:37:06 -04:00,"Neo4j France","Neo4jFr","GraphTalk #Neo4j  – Bruxelles, Belgique
-Jeudi 14 Septembre @ 08:30 CEST
-
-https://t.co/4d3l6SsJJ9
-@rvanbruggen https://t.co/SzpQFGFvKR","fr",,
-905725811168292864,2017/09/07 05:33:55 -04:00,"Data Security","data_secu","Financial Services  Neo4j Cybersecurity - Shared from https://t.co/jVR9Ht9235. [https://t.co/SU9VU2fUeN]… https://t.co/OLS7igZU0Q","en",,
