@@ -1,111 +1,108 @@
-ID,created_at,"screen_name","text","language","in_reply_to_screen_name","in_reply_to_status_id"
-905873224558370817,2017/09/07 15:19:41 -04:00,"mesirii","@rbolduan @meetup_support @neo4j @Meetup Ya the new UI is pretty bad, the old one was clear and well structured, th… https://t.co/tJcPF8Z0vr","en","rbolduan","905792525113446402"
-905872040053407745,2017/09/07 15:14:59 -04:00,"mesirii","Really enjoyed presenting on Graph Algorithms with #Neo4j
+ID,created_at,"name","screen_name","text","language","in_reply_to_screen_name","in_reply_to_status_id"
+905874816753913856,2017/09/07 15:26:01 -04:00,"Nicolas Kosinski","nicokosi","@fbiville @neo4j ""MasterJay"" or ""MasterJey"" ? (masterkey + Java) 🤓","in","fbiville","905850499215347715"
+905873224558370817,2017/09/07 15:19:41 -04:00,"Michael Hunger","mesirii","@rbolduan @meetup_support @neo4j @Meetup Ya the new UI is pretty bad, the old one was clear and well structured, th… https://t.co/tJcPF8Z0vr","en","rbolduan","905792525113446402"
+905872040053407745,2017/09/07 15:14:59 -04:00,"Michael Hunger","mesirii","Really enjoyed presenting on Graph Algorithms with #Neo4j
 
 Let us know what you think!
 
 https://t.co/76Wr3EowVi
 
 https://t.co/ndEzS6nZus","en",,
-905870804570787840,2017/09/07 15:10:04 -04:00,"TheAhmedSherif","Getting started with @Neo4j Graph DB and #Python via @marcobonzanini https://t.co/BiW3iHo0fy https://t.co/zD84B5ONjN","en",,
-905864286240743424,2017/09/07 14:44:10 -04:00,"Neo4jDE","#Neo4j Basics Workshop – #München, Deutschland
+905870804570787840,2017/09/07 15:10:04 -04:00,"Ahmed Sherif","TheAhmedSherif","Getting started with @Neo4j Graph DB and #Python via @marcobonzanini https://t.co/BiW3iHo0fy https://t.co/zD84B5ONjN","en",,
+905864286240743424,2017/09/07 14:44:10 -04:00,"Neo4j Germany","Neo4jDE","#Neo4j Basics Workshop – #München, Deutschland
 Donnerstag, 12. Oktober um 9:00 CEST
 
 https://t.co/z4QPTXc1DY
 mit… https://t.co/EMOUNb2kAx","de",,
-905858020407685120,2017/09/07 14:19:16 -04:00,"conjja","@lpasqualis learning r (in r studio); soon will be srsly working on python (in jupyter) and neo4j (??). looking for… https://t.co/fbLpUMt979","en","lpasqualis","905857479031963648"
-905857055860412416,2017/09/07 14:15:26 -04:00,"fbiville","@lyonwj @neo4j Nice suggestion, thanks!","en","lyonwj","905856771213762562"
-905856771213762562,2017/09/07 14:14:18 -04:00,"lyonwj","@fbiville @neo4j how about Switch? https://t.co/u0RY77xUkb","en","fbiville","905850499215347715"
-905855278469582848,2017/09/07 14:08:23 -04:00,"fbiville","@lucasdicioccio @neo4j Hmmm, let me think about that 😜","en","lucasdicioccio","905854795537420289"
-905854795537420289,2017/09/07 14:06:27 -04:00,"lucasdicioccio","@fbiville @neo4j You'll have to name it ""suggest-in-reply""","en","fbiville","905850499215347715"
-905852711597375488,2017/09/07 13:58:11 -04:00,"unbalancedparen","@hamidr_ @lechindianer ter. if you need a fast cache, leaderboard system redis is better. if you need a graph db ne… https://t.co/Vg6a1n6XaL","en","unbalancedparen","905852481787318272"
-905850499215347715,2017/09/07 13:49:23 -04:00,"fbiville","I need a name for my soon-open-source JVM project that is able to run Cypher queries in all @Neo4j (v2 and v3) setup (embedded, HTTP, Bolt).","en",,
-905845458274328577,2017/09/07 13:29:21 -04:00,"phanor","Me ha gustado un vídeo de @YouTube (https://t.co/lSPmbqKqGQ - Neo4j Online Meetup #23: Efficient Graph Algorithms in Neo4j).","es",,
-905836107111084032,2017/09/07 12:52:12 -04:00,"dijikul","@neo4j Perhaps, but not yet obtained a meaningful result as I've only just got my feet wet. Also, anti-fraud in a P… https://t.co/75Gf0yTTop","en","neo4j","905556971138502657"
-905824986329317379,2017/09/07 12:08:00 -04:00,"Le_GFII","La NASA utilise Neo4j pour exploiter sa base de données de retours d'expériences  https://t.co/ZjrUwRNhwo","fr",,
-905824211591147522,2017/09/07 12:04:56 -04:00,"mpyeager","Just logged on, excited to hear from @mesirii about new @neo4j practical algos. https://t.co/QxCKSat8Pm","en",,
-905823425507323904,2017/09/07 12:01:48 -04:00,"neo4j","#tbt
+905858020407685120,2017/09/07 14:19:16 -04:00,"landsnark.","conjja","@lpasqualis learning r (in r studio); soon will be srsly working on python (in jupyter) and neo4j (??). looking for… https://t.co/fbLpUMt979","en","lpasqualis","905857479031963648"
+905857055860412416,2017/09/07 14:15:26 -04:00,"Florent Biville","fbiville","@lyonwj @neo4j Nice suggestion, thanks!","en","lyonwj","905856771213762562"
+905856771213762562,2017/09/07 14:14:18 -04:00,"William Lyon","lyonwj","@fbiville @neo4j how about Switch? https://t.co/u0RY77xUkb","en","fbiville","905850499215347715"
+905855278469582848,2017/09/07 14:08:23 -04:00,"Florent Biville","fbiville","@lucasdicioccio @neo4j Hmmm, let me think about that 😜","en","lucasdicioccio","905854795537420289"
+905854795537420289,2017/09/07 14:06:27 -04:00,"lucas卞dicioccio","lucasdicioccio","@fbiville @neo4j You'll have to name it ""suggest-in-reply""","en","fbiville","905850499215347715"
+905852711597375488,2017/09/07 13:58:11 -04:00,"unbalancedparen)","unbalancedparen","@hamidr_ @lechindianer ter. if you need a fast cache, leaderboard system redis is better. if you need a graph db ne… https://t.co/Vg6a1n6XaL","en","unbalancedparen","905852481787318272"
+905850499215347715,2017/09/07 13:49:23 -04:00,"Florent Biville","fbiville","I need a name for my soon-open-source JVM project that is able to run Cypher queries in all @Neo4j (v2 and v3) setup (embedded, HTTP, Bolt).","en",,
+905845458274328577,2017/09/07 13:29:21 -04:00,"Phanor Coll","phanor","Me ha gustado un vídeo de @YouTube (https://t.co/lSPmbqKqGQ - Neo4j Online Meetup #23: Efficient Graph Algorithms in Neo4j).","es",,
+905836107111084032,2017/09/07 12:52:12 -04:00,"Jenksy","dijikul","@neo4j Perhaps, but not yet obtained a meaningful result as I've only just got my feet wet. Also, anti-fraud in a P… https://t.co/75Gf0yTTop","en","neo4j","905556971138502657"
+905824986329317379,2017/09/07 12:08:00 -04:00,"GFII","Le_GFII","La NASA utilise Neo4j pour exploiter sa base de données de retours d'expériences  https://t.co/ZjrUwRNhwo","fr",,
+905824211591147522,2017/09/07 12:04:56 -04:00,"Wookiee.AI","mpyeager","Just logged on, excited to hear from @mesirii about new @neo4j practical algos. https://t.co/QxCKSat8Pm","en",,
+905823425507323904,2017/09/07 12:01:48 -04:00,"Neo4j","neo4j","#tbt
 
 Common Confusions on #Cypher (and How to Avoid Them)
 
 https://t.co/ZodPgVSPMt
 @_nicolemargaret https://t.co/Nw9QgUAVGn","en",,
-905823162268602368,2017/09/07 12:00:45 -04:00,"Chasmo90","Now live meetup of @neo4j about efficient graph algorithms! 
+905823162268602368,2017/09/07 12:00:45 -04:00,"Martin Seeler","Chasmo90","Now live meetup of @neo4j about efficient graph algorithms! 
 https://t.co/GsDLVcIoVo","en",,
-905819795001667584,2017/09/07 11:47:23 -04:00,"TrueDigitalCom","From @ZimanaAnalytics #CMWorld shout out to @Supermetrics Data Grabber for @msexcel  @neo4j @tableau @DataHero","en",,
-905816888999116801,2017/09/07 11:35:50 -04:00,"nosqlweekly","NoSQL Weekly - Issue 352  https://t.co/jf4cK4JKxg #nosql #riak #mongodb #redis #spark #neo4j #couchbase #dynamodb #cassandra #couchdb","en",,
-905816727753195520,2017/09/07 11:35:11 -04:00,"Neo4jDE","#Neo4j Basics Workshop – #Berlin, Deutschland
+905819795001667584,2017/09/07 11:47:23 -04:00,"True Digital Com","TrueDigitalCom","From @ZimanaAnalytics #CMWorld shout out to @Supermetrics Data Grabber for @msexcel  @neo4j @tableau @DataHero","en",,
+905816888999116801,2017/09/07 11:35:50 -04:00,"NoSQL Weekly","nosqlweekly","NoSQL Weekly - Issue 352  https://t.co/jf4cK4JKxg #nosql #riak #mongodb #redis #spark #neo4j #couchbase #dynamodb #cassandra #couchdb","en",,
+905816727753195520,2017/09/07 11:35:11 -04:00,"Neo4j Germany","Neo4jDE","#Neo4j Basics Workshop – #Berlin, Deutschland
 Donnerstag, 5. Oktober um 9:00 CEST
 
 https://t.co/a3yl79hMcb
 mit… https://t.co/DKAgCKh4o3","de",,
-905812696997781505,2017/09/07 11:19:10 -04:00,"El_Programmador","Interesting the version 3.2.1 of Neo4j have intellisence in the browser.","en",,
-905808662295445504,2017/09/07 11:03:08 -04:00,"trustartech","We love our @neo4j graph database. Great explainer from @FederalTimes about why GraphDBs are ideal for cyber https://t.co/ToQAcGC3Ub","en",,
-905808452219539458,2017/09/07 11:02:18 -04:00,"Neo4jFr","#tbt
+905812696997781505,2017/09/07 11:19:10 -04:00,"Hugo Girard","El_Programmador","Interesting the version 3.2.1 of Neo4j have intellisence in the browser.","en",,
+905808662295445504,2017/09/07 11:03:08 -04:00,"TruSTAR Technology","trustartech","We love our @neo4j graph database. Great explainer from @FederalTimes about why GraphDBs are ideal for cyber https://t.co/ToQAcGC3Ub","en",,
+905808452219539458,2017/09/07 11:02:18 -04:00,"Neo4j France","Neo4jFr","#tbt
 
 Les confusions fréquentes dans #Cypher (et comment les éviter)
 
 https://t.co/0D4eOZq3UC
 @_nicolemargaret","fr",,
-905808082504216577,2017/09/07 11:00:50 -04:00,"neo4j","#Neo4j GraphTalk – Brussels, Belgium
+905808082504216577,2017/09/07 11:00:50 -04:00,"Neo4j","neo4j","#Neo4j GraphTalk – Brussels, Belgium
 Thursday, 14 September @ 08:30 CEST
   
 https://t.co/xZMTBIsZPz
 with… https://t.co/31ATF61omg","en",,
-905804368078807040,2017/09/07 10:46:05 -04:00,"kodetalk","How to create Bidirectional relationship in #Neo4j?  https://t.co/EJinOsc4Lk https://t.co/QuFNcaLydI","en",,
-905800694007042048,2017/09/07 10:31:29 -04:00,"michellesanver","@dbu Yay! I will talk about neo4j! :)","en","dbu","905748625145434112"
-905797093163499521,2017/09/07 10:17:10 -04:00,"wololock","Playing with #Neo4j 💻💼😯 #work #freelance #remotework #freelancerslife #programming #java… https://t.co/f1iNAFCgto","en",,
-905792525113446402,2017/09/07 09:59:01 -04:00,"rbolduan","@meetup_support @neo4j You know, filters are supposed to enhance pictures, not make it look like a pile of puke. Ju… https://t.co/hf5AunfKmQ","en","meetup_support","905456021316841472"
-905789597027897344,2017/09/07 09:47:23 -04:00,"GA_Nys","@niekbartho When we speak about connections between people, I immediately think abotu FOAF. And I think Ontotext be… https://t.co/OettHUbV6N","en","niekbartho","905764493950636032"
-905789215916662785,2017/09/07 09:45:52 -04:00,"NeoQuestions","""Comparing two graphs in Neo4j"" #neo4jquestions https://t.co/Ym3pAFhrnW","en",,
-905787914432520192,2017/09/07 09:40:42 -04:00,"NeoQuestions","""Neo4j.rb How to Subclass ActiveRel relationship?"" #neo4jquestions https://t.co/imKcyysXJ4","en",,
-905787871654809604,2017/09/07 09:40:31 -04:00,"NeoQuestions","""How to generate dynamic Images using Neo4j api in Java"" #neo4jquestions https://t.co/2Ewy5ZR6EW","en",,
-905784489091137536,2017/09/07 09:27:05 -04:00,"rogerarmoapy","Que les gustaria ver hoy? #firebase #neo4j #cypherquery NOSQL para programadores SQL","und",,
-905778391353139200,2017/09/07 09:02:51 -04:00,"JobsCoding","Sr Full Stack #Rails/JS Engineer. Backend: #RubyonRails 
+905804368078807040,2017/09/07 10:46:05 -04:00,"Kodetalk","kodetalk","How to create Bidirectional relationship in #Neo4j?  https://t.co/EJinOsc4Lk https://t.co/QuFNcaLydI","en",,
+905800694007042048,2017/09/07 10:31:29 -04:00,"Michelle 🐘🐉","michellesanver","@dbu Yay! I will talk about neo4j! :)","en","dbu","905748625145434112"
+905797093163499521,2017/09/07 10:17:10 -04:00,"Szymon Stepniak","wololock","Playing with #Neo4j 💻💼😯 #work #freelance #remotework #freelancerslife #programming #java… https://t.co/f1iNAFCgto","en",,
+905792525113446402,2017/09/07 09:59:01 -04:00,"Ryan Bolduan","rbolduan","@meetup_support @neo4j You know, filters are supposed to enhance pictures, not make it look like a pile of puke. Ju… https://t.co/hf5AunfKmQ","en","meetup_support","905456021316841472"
+905789597027897344,2017/09/07 09:47:23 -04:00,"Gilles-Antoine Nys","GA_Nys","@niekbartho When we speak about connections between people, I immediately think abotu FOAF. And I think Ontotext be… https://t.co/OettHUbV6N","en","niekbartho","905764493950636032"
+905789215916662785,2017/09/07 09:45:52 -04:00,"Neo Questions","NeoQuestions","""Comparing two graphs in Neo4j"" #neo4jquestions https://t.co/Ym3pAFhrnW","en",,
+905787914432520192,2017/09/07 09:40:42 -04:00,"Neo Questions","NeoQuestions","""Neo4j.rb How to Subclass ActiveRel relationship?"" #neo4jquestions https://t.co/imKcyysXJ4","en",,
+905787871654809604,2017/09/07 09:40:31 -04:00,"Neo Questions","NeoQuestions","""How to generate dynamic Images using Neo4j api in Java"" #neo4jquestions https://t.co/2Ewy5ZR6EW","en",,
+905784489091137536,2017/09/07 09:27:05 -04:00,"zoozol plex","rogerarmoapy","Que les gustaria ver hoy? #firebase #neo4j #cypherquery NOSQL para programadores SQL","und",,
+905778391353139200,2017/09/07 09:02:51 -04:00,"Coding Jobs","JobsCoding","Sr Full Stack #Rails/JS Engineer. Backend: #RubyonRails 
 Datastores: #Postgres #ElasticSearch #Neo4J #MongoDB #Redis
 https://t.co/J1jBmb2IKJ","en",,
-905778013991731200,2017/09/07 09:01:21 -04:00,"neo4j","Read Forrester Research's white paper to see how Monsanto uses #Neo4j to increase their competitive advantage:… https://t.co/PkvRu65BdA","en",,
-905777198866591744,2017/09/07 08:58:07 -04:00,"BozelosP","Kudos to @neo4j for enabling such powerful approaches in a world of rapidly expanding interconnected data https://t.co/ktHgbQBBi3","en",,
-905776457867198465,2017/09/07 08:55:10 -04:00,"NeoQuestions","""Neo4j: get all relations between queried nodes"" #neo4jquestions https://t.co/psKNm3Qpyn","en",,
-905776419925508096,2017/09/07 08:55:01 -04:00,"SiamComputing","We all have our doubts about graph databases, let's get some clarity https://t.co/mWyXfU7GsM … #neo4j #Database #developers #webdevelopment","en",,
-905774663535656960,2017/09/07 08:48:02 -04:00,"Neo4jFr","#Neo4j GraphTalks – Bruxelles, Belgique
+905778013991731200,2017/09/07 09:01:21 -04:00,"Neo4j","neo4j","Read Forrester Research's white paper to see how Monsanto uses #Neo4j to increase their competitive advantage:… https://t.co/PkvRu65BdA","en",,
+905777198866591744,2017/09/07 08:58:07 -04:00,"Bozèlos P.","BozelosP","Kudos to @neo4j for enabling such powerful approaches in a world of rapidly expanding interconnected data https://t.co/ktHgbQBBi3","en",,
+905776457867198465,2017/09/07 08:55:10 -04:00,"Neo Questions","NeoQuestions","""Neo4j: get all relations between queried nodes"" #neo4jquestions https://t.co/psKNm3Qpyn","en",,
+905776419925508096,2017/09/07 08:55:01 -04:00,"Siam Computing","SiamComputing","We all have our doubts about graph databases, let's get some clarity https://t.co/mWyXfU7GsM … #neo4j #Database #developers #webdevelopment","en",,
+905774663535656960,2017/09/07 08:48:02 -04:00,"Neo4j France","Neo4jFr","#Neo4j GraphTalks – Bruxelles, Belgique
 Jeudi 14 Septembre @ 08:30 CEST
   
 https://t.co/CB6XRVWByY
 avec @rvanbruggen https://t.co/HJmGftEJzK","fr",,
-905767173142048769,2017/09/07 08:18:17 -04:00,"buschmais","Bald wieder spannende Workshops bei uns: #Neo4j mit @mesirii und #Hibernate mit @thjanssen123 #earlybird #Dresden https://t.co/8RIIsQcF58","de",,
-905751243561283585,2017/09/07 07:14:59 -04:00,"NeoQuestions","""Loading CSV file under windows does not work with chyper and Neo4j"" #neo4jquestions https://t.co/WhiyTscxWI","en",,
-905748754468282368,2017/09/07 07:05:05 -04:00,"neo4j","Emil, Neo4j Co-Creator, invites you to ""Biggest, best, and most exciting GraphConnect ever."" Oct 23-24 NYC.… https://t.co/pocY3E3VMd","en",,
-905748588713701376,2017/09/07 07:04:26 -04:00,"irio","@mesirii Although my words might not fully reflect it, didn’t mean to blame Neo4j but ask how to deal with my own e… https://t.co/s9mXtSFveO","en","mesirii","905747379273572354"
-905747810838081536,2017/09/07 07:01:20 -04:00,"mesirii","@irio See: 
+905767173142048769,2017/09/07 08:18:17 -04:00,"buschmais","buschmais","Bald wieder spannende Workshops bei uns: #Neo4j mit @mesirii und #Hibernate mit @thjanssen123 #earlybird #Dresden https://t.co/8RIIsQcF58","de",,
+905751243561283585,2017/09/07 07:14:59 -04:00,"Neo Questions","NeoQuestions","""Loading CSV file under windows does not work with chyper and Neo4j"" #neo4jquestions https://t.co/WhiyTscxWI","en",,
+905748754468282368,2017/09/07 07:05:05 -04:00,"Neo4j","neo4j","Emil, Neo4j Co-Creator, invites you to ""Biggest, best, and most exciting GraphConnect ever."" Oct 23-24 NYC.… https://t.co/pocY3E3VMd","en",,
+905748588713701376,2017/09/07 07:04:26 -04:00,"Irio Musskopf","irio","@mesirii Although my words might not fully reflect it, didn’t mean to blame Neo4j but ask how to deal with my own e… https://t.co/s9mXtSFveO","en","mesirii","905747379273572354"
+905747810838081536,2017/09/07 07:01:20 -04:00,"Michael Hunger","mesirii","@irio See: 
 https://t.co/WBLsDFYZoL
 
 https://t.co/u84SIgVsZZ
 
 https://t.co/BMAV69fYAa","und","irio","905746546733588480"
-905747566423310336,2017/09/07 07:00:22 -04:00,"neo4j","Webinar: Native vs. Non-Native #GraphDatabases
+905747566423310336,2017/09/07 07:00:22 -04:00,"Neo4j","neo4j","Webinar: Native vs. Non-Native #GraphDatabases
 Friday, 15 September @ 10:00 BST | 11:00 CEST… https://t.co/AWUhmOFL6P","en",,
-905747018706030592,2017/09/07 06:58:11 -04:00,"mesirii","Don't forget our Practical Graph Algorithms #Neo4j Online Meetup today! See you in 5 hours!
+905747018706030592,2017/09/07 06:58:11 -04:00,"Michael Hunger","mesirii","Don't forget our Practical Graph Algorithms #Neo4j Online Meetup today! See you in 5 hours!
 Have much fun preparing
 
 https://t.co/tCfjYhpLWn","en",,
-905746546733588480,2017/09/07 06:56:19 -04:00,"irio","Neo4j is slow as hell when plotting 500+ nodes/relationships. Am I doing something wrong?","en",,
-905746468161568768,2017/09/07 06:56:00 -04:00,"yamamanx","Neo4j、面白い、面白い、がこれも基本のキ、なのか #SendGrid_JP","ja",,
-905733741175300097,2017/09/07 06:05:26 -04:00,"mesirii","I'm looking forward to meet all my French friends at the Paris #Neo4j Meetup next Tuesday Sep 12
+905746546733588480,2017/09/07 06:56:19 -04:00,"Irio Musskopf","irio","Neo4j is slow as hell when plotting 500+ nodes/relationships. Am I doing something wrong?","en",,
+905746468161568768,2017/09/07 06:56:00 -04:00,"山下","yamamanx","Neo4j、面白い、面白い、がこれも基本のキ、なのか #SendGrid_JP","ja",,
+905733741175300097,2017/09/07 06:05:26 -04:00,"Michael Hunger","mesirii","I'm looking forward to meet all my French friends at the Paris #Neo4j Meetup next Tuesday Sep 12
 Be there to say hi
 
 https://t.co/zpPxVbO62I","en",,
-905733179247616000,2017/09/07 06:03:12 -04:00,"Connected_Data","Adding explicit semantics to graph databases https://t.co/HOsSHuJrtc #Neo4j","en",,
-905730329822072832,2017/09/07 05:51:52 -04:00,"bs_sales12","Neo4j : Learn Leading NoSQL Graph Database from Scratch
+905733179247616000,2017/09/07 06:03:12 -04:00,"Connected Data LDN","Connected_Data","Adding explicit semantics to graph databases https://t.co/HOsSHuJrtc #Neo4j","en",,
+905730329822072832,2017/09/07 05:51:52 -04:00,"Business Sales","bs_sales12","Neo4j : Learn Leading NoSQL Graph Database from Scratch
 ☞ https://t.co/Ft45kqudC9
 #sales #business","en",,
-905726610036457472,2017/09/07 05:37:06 -04:00,"Neo4jFr","GraphTalk #Neo4j  – Bruxelles, Belgique
+905726610036457472,2017/09/07 05:37:06 -04:00,"Neo4j France","Neo4jFr","GraphTalk #Neo4j  – Bruxelles, Belgique
 Jeudi 14 Septembre @ 08:30 CEST
 
 https://t.co/4d3l6SsJJ9
 @rvanbruggen https://t.co/SzpQFGFvKR","fr",,
-905725811168292864,2017/09/07 05:33:55 -04:00,"data_secu","Financial Services  Neo4j Cybersecurity - Shared from https://t.co/jVR9Ht9235. [https://t.co/SU9VU2fUeN]… https://t.co/OLS7igZU0Q","en",,
-905724626856173572,2017/09/07 05:29:13 -04:00,"KAZAMAI_NaruTo","よし、MONGODB を試す。
-Neo4j はライセンス調べる","ja",,
-905708919544262656,2017/09/07 04:26:48 -04:00,"sarumpr","Connections can transform how financial firms look at data via @TheCSuiteUK https://t.co/jzNMECW4XK @emileifrem @neo4j #graphdatabases","en",,
-905708919514955776,2017/09/07 04:26:48 -04:00,"birtie","Connections can transform how financial firms look at data via @TheCSuiteUK https://t.co/r4QSPsGNDB @emileifrem @neo4j #graphdatabases","en",,
+905725811168292864,2017/09/07 05:33:55 -04:00,"Data Security","data_secu","Financial Services  Neo4j Cybersecurity - Shared from https://t.co/jVR9Ht9235. [https://t.co/SU9VU2fUeN]… https://t.co/OLS7igZU0Q","en",,

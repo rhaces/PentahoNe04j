@@ -773,6 +773,19 @@
         <repeat>N</repeat>
       </field>
       <field>
+        <name>name</name>
+        <path>$.statuses[*].user.name</path>
+        <type>String</type>
+        <format />
+        <currency />
+        <decimal />
+        <group />
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>none</trim_type>
+        <repeat>N</repeat>
+      </field>
+      <field>
         <name>screen_name</name>
         <path>$.statuses[*].user.screen_name</path>
         <type>String</type>
@@ -1821,33 +1834,47 @@ var REST_URL = URL+'?'+URL_PARAM</jsScript_script>
     <fields>
       <field>
         <name>ID</name>
+        <rename />
       </field>
       <field>
         <name>created_at</name>
+        <rename />
+      </field>
+      <field>
+        <name>name</name>
+        <rename />
       </field>
       <field>
         <name>screen_name</name>
+        <rename />
       </field>
       <field>
         <name>text</name>
+        <rename />
       </field>
       <field>
         <name>language</name>
+        <rename />
       </field>
       <field>
         <name>in_reply_to_screen_name</name>
+        <rename />
       </field>
       <field>
         <name>in_reply_to_status_id</name>
+        <rename />
       </field>
       <field>
         <name>hashtags</name>
+        <rename />
       </field>
       <field>
         <name>mentions</name>
+        <rename />
       </field>
       <field>
         <name>urls</name>
+        <rename />
       </field>
       <select_unspecified>N</select_unspecified>
       <meta>
@@ -2309,6 +2336,18 @@ var REST_URL = URL+'?'+URL_PARAM</jsScript_script>
         <name>created_at</name>
         <type>Date</type>
         <format>yyyy/MM/dd HH:mm:ss XXX</format>
+        <currency />
+        <decimal />
+        <group />
+        <nullif />
+        <trim_type>both</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>name</name>
+        <type>String</type>
+        <format />
         <currency />
         <decimal />
         <group />
