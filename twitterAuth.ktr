@@ -681,7 +681,7 @@
         <item>HhlIn2ZTCzaRGX12NNowFZOwRcDH2ZV6KigXrMqpbovJK</item>
         <item>https://api.twitter.com/1.1/search/tweets.json</item>
         <item>GET</item>
-        <item>Neo4j Pentaho</item>
+        <item>Neo4j OR Pentaho</item>
         <item>1000</item>
       </line>
     </data>

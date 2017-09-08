@@ -1,2 +1,103 @@
 ID,created_at,"name","screen_name","text","language","in_reply_to_screen_name","in_reply_to_status_id"
-,,,,,,,
+905946689705562112,2017/09/07 20:11:37 -04:00,"TSD Consulting","tsdconsulting","#trabajo  Consultor Pentaho Kettle Barcelona. Envía CV candidato@tsdconsulting.es. Asunto: Kettle https://t.co/fYELRdIKcB","es",,
+905946363975811072,2017/09/07 20:10:19 -04:00,"Jenksy","dijikul","Can @plotlygraphs plug into Neo4j w/ Bolt to create a Graph, or is it strictly for Cartesian coordinate plotting?","en",,
+905943780884443137,2017/09/07 20:00:03 -04:00,"Neo4j","neo4j","Check out our latest white paper to discover all the benefits #Neo4j provides to major #retailers:… https://t.co/hMn8Xka0O7","en",,
+905929089944621056,2017/09/07 19:01:41 -04:00,"Jenksy","dijikul","@mesirii @neo4j @lyonwj Thanks for the references!  Which one is most-mature?  Which one is the easiest to implemen… https://t.co/JlSsCI4vOp","en","mesirii","905923057012879360"
+905928678151991297,2017/09/07 19:00:02 -04:00,"Neo4j","neo4j","Streamlining Processes with #Neo4j at @GlidewellDental Laboratories
+   
+https://t.co/sXt4bdGkKQ
+via @GraphConnect https://t.co/eiAUZCifpy","en",,
+905923057012879360,2017/09/07 18:37:42 -04:00,"Michael Hunger","mesirii","@dijikul @neo4j Not yet. Check out one of the frameworks (yFiles, d3, ogma, viz.js) or, this 
+https://t.co/5VQq8lCg0U
+by @lyonwj","en","dijikul","905917915572183040"
+905922294148726785,2017/09/07 18:34:40 -04:00,"Christophe Willemsen","ikwattro","@tedvga @neo4j @_nicolemargaret Pretty easy with tx event handlers or APOC triggers.","en","tedvga","905877250888925184"
+905918013869785089,2017/09/07 18:17:40 -04:00,"Cori_2017","Cori_2017","@thedatabloke @markhneedham @neo4j Could I ask you for the code and main steps to create that interactive visualization?","en","thedatabloke","905521217658114049"
+905917915572183040,2017/09/07 18:17:16 -04:00,"Jenksy","dijikul","More @neo4j success today but struggling with Cypher a bit..  Can GRASS size nodes and links based on properties or do I need a framework?","en",,
+905914807378960384,2017/09/07 18:04:55 -04:00,"Data Security","data_secu","This Week In Neo4j 12 August 2017 - Welcome To This Week In Neo4j Where We Ro.. [https://t.co/QBGlQ3Yka6] https://t.co/vBVnccP8Tk","en",,
+905913576841519105,2017/09/07 18:00:02 -04:00,"Neo4j","neo4j","#tbt:
+ 
+A New Way of Looking at “Moving Relationships” in #Neo4j
+
+https://t.co/tEhYAVICm5
+via @SylvainRoussy https://t.co/E6DbRrhy56","en",,
+905906477407371266,2017/09/07 17:31:49 -04:00,"Neo Questions","NeoQuestions","""Where is Neo4j 3.2.3 installed in Mac?"" #neo4jquestions https://t.co/8Vtnla07H3","en",,
+905900553460473859,2017/09/07 17:08:17 -04:00,"join da hunt","JoindaHunt","streamline Pentaho transformation  by hcarter3 https://t.co/E4cDvfijg5 I have a ktr that was built in part to measure units of time based …","en",,
+905899578368684032,2017/09/07 17:04:24 -04:00,"Freelancer Projects","latestprojects","streamline Pentaho transformation  by hcarter3 https://t.co/58GDteYfph","en",,
+905896366035087360,2017/09/07 16:51:39 -04:00,"Neo Questions","NeoQuestions","""I like to return the json format from neo4j list in scala"" #neo4jquestions https://t.co/NnxmerYJnw","en",,
+905891224292392960,2017/09/07 16:31:13 -04:00,"Markus Harrer","feststelltaste","""Java Type Dependency Analysis"" with #jqassistant #neo4j #d3 https://t.co/uCk7mfiSug #ToolsThatJustDoTheJobRight","en",,
+905891071493857280,2017/09/07 16:30:36 -04:00,"christie g","cgianatt","Convert insights to action to neutralize security threats in real time. Join this Neo4j &amp; @IBMPowerSystems webinar :https://t.co/jdQ7B6PbLJ","en",,
+905890936659427328,2017/09/07 16:30:04 -04:00,"Neo4j","neo4j","45+ sessions. 9 classes/workshops. 1,000 of your closest friends. Register for GraphConnect NYC Oct 23-24 at… https://t.co/JAtuKdFFB4","en",,
+905885810767093760,2017/09/07 16:09:42 -04:00,"John Caito","JohnCaito","Neo4j Online Meetup #23: Efficient Graph Algorithms in Neo4j https://t.co/TYcpQ4MftN via @YouTube","en",,
+905883581997883401,2017/09/07 16:00:51 -04:00,"Neo4j","neo4j","Discovering Awesome Female Engineers in the #GraphQL Community
+ 
+https://t.co/gUlmmDPfcA
+via @mesirii #Neo4j https://t.co/gmpgxthIZY","en",,
+905879327140663297,2017/09/07 15:43:56 -04:00,"Florent Biville","fbiville","@a_thieriot @neo4j Ahah, cool quand même, du coup :)","fr","a_thieriot","905879193531101185"
+905879193531101185,2017/09/07 15:43:24 -04:00,"Aurélien Thieriot","a_thieriot","@fbiville @neo4j C'est ça qu'ils disent quand ils prennent le téléphone pour se faire sortir de la matrice","fr","fbiville","905879004196065280"
+905879004196065280,2017/09/07 15:42:39 -04:00,"Florent Biville","fbiville","@a_thieriot @neo4j Not a Matrix character, though? Or am I missing something?","en","a_thieriot","905878341894500353"
+905878341894500353,2017/09/07 15:40:01 -04:00,"Aurélien Thieriot","a_thieriot","@fbiville @neo4j Operator?","es","fbiville","905850499215347715"
+905877250888925184,2017/09/07 15:35:41 -04:00,"Ted van Gaalen","tedvga","@neo4j @_nicolemargaret I've merely touched Neo4j it's great, but what if nodes could be dynamic objects that could… https://t.co/c0FeECV7Wk","en","neo4j","905823425507323904"
+905874816753913856,2017/09/07 15:26:01 -04:00,"Nicolas Kosinski","nicokosi","@fbiville @neo4j ""MasterJay"" or ""MasterJey"" ? (masterkey + Java) 🤓","in","fbiville","905850499215347715"
+905873224558370817,2017/09/07 15:19:41 -04:00,"Michael Hunger","mesirii","@rbolduan @meetup_support @neo4j @Meetup Ya the new UI is pretty bad, the old one was clear and well structured, th… https://t.co/tJcPF8Z0vr","en","rbolduan","905792525113446402"
+905872040053407745,2017/09/07 15:14:59 -04:00,"Michael Hunger","mesirii","Really enjoyed presenting on Graph Algorithms with #Neo4j
+
+Let us know what you think!
+
+https://t.co/76Wr3EowVi
+
+https://t.co/ndEzS6nZus","en",,
+905870804570787840,2017/09/07 15:10:04 -04:00,"Ahmed Sherif","TheAhmedSherif","Getting started with @Neo4j Graph DB and #Python via @marcobonzanini https://t.co/BiW3iHo0fy https://t.co/zD84B5ONjN","en",,
+905864286240743424,2017/09/07 14:44:10 -04:00,"Neo4j Germany","Neo4jDE","#Neo4j Basics Workshop – #München, Deutschland
+Donnerstag, 12. Oktober um 9:00 CEST
+
+https://t.co/z4QPTXc1DY
+mit… https://t.co/EMOUNb2kAx","de",,
+905858020407685120,2017/09/07 14:19:16 -04:00,"landsnark.","conjja","@lpasqualis learning r (in r studio); soon will be srsly working on python (in jupyter) and neo4j (??). looking for… https://t.co/fbLpUMt979","en","lpasqualis","905857479031963648"
+905857055860412416,2017/09/07 14:15:26 -04:00,"Florent Biville","fbiville","@lyonwj @neo4j Nice suggestion, thanks!","en","lyonwj","905856771213762562"
+905856771213762562,2017/09/07 14:14:18 -04:00,"William Lyon","lyonwj","@fbiville @neo4j how about Switch? https://t.co/u0RY77xUkb","en","fbiville","905850499215347715"
+905855278469582848,2017/09/07 14:08:23 -04:00,"Florent Biville","fbiville","@lucasdicioccio @neo4j Hmmm, let me think about that 😜","en","lucasdicioccio","905854795537420289"
+905854795537420289,2017/09/07 14:06:27 -04:00,"lucas卞dicioccio","lucasdicioccio","@fbiville @neo4j You'll have to name it ""suggest-in-reply""","en","fbiville","905850499215347715"
+905852711597375488,2017/09/07 13:58:11 -04:00,"unbalancedparen)","unbalancedparen","@hamidr_ @lechindianer ter. if you need a fast cache, leaderboard system redis is better. if you need a graph db ne… https://t.co/Vg6a1n6XaL","en","unbalancedparen","905852481787318272"
+905850499215347715,2017/09/07 13:49:23 -04:00,"Florent Biville","fbiville","I need a name for my soon-open-source JVM project that is able to run Cypher queries in all @Neo4j (v2 and v3) setup (embedded, HTTP, Bolt).","en",,
+905847410638942209,2017/09/07 13:37:07 -04:00,"Bernard Savonet","Fibo","@Pentaho Hi, any idea when the marketplace  https://t.co/vYSiqgorng will resume working after being down for several hours?","en","Pentaho",
+905845458274328577,2017/09/07 13:29:21 -04:00,"Phanor Coll","phanor","Me ha gustado un vídeo de @YouTube (https://t.co/lSPmbqKqGQ - Neo4j Online Meetup #23: Efficient Graph Algorithms in Neo4j).","es",,
+905838416557993986,2017/09/07 13:01:22 -04:00,"Pentaho","Pentaho","Great read about how @OpportunityIntl is leveraging #bigdata for social good &amp; African education:… https://t.co/xdHOHNkgzz","en",,
+905836107111084032,2017/09/07 12:52:12 -04:00,"Jenksy","dijikul","@neo4j Perhaps, but not yet obtained a meaningful result as I've only just got my feet wet. Also, anti-fraud in a P… https://t.co/75Gf0yTTop","en","neo4j","905556971138502657"
+905825856609820673,2017/09/07 12:11:28 -04:00,"TSD Consulting","tsdconsulting","#empleo consultor Pentaho Kettle Barcelona. CV a candidato@tsdconsulting.es Asunto:Kettle #trabajo https://t.co/2EhJYkjddi","en",,
+905824986329317379,2017/09/07 12:08:00 -04:00,"GFII","Le_GFII","La NASA utilise Neo4j pour exploiter sa base de données de retours d'expériences  https://t.co/ZjrUwRNhwo","fr",,
+905824211591147522,2017/09/07 12:04:56 -04:00,"Wookiee.AI","mpyeager","Just logged on, excited to hear from @mesirii about new @neo4j practical algos. https://t.co/QxCKSat8Pm","en",,
+905823425507323904,2017/09/07 12:01:48 -04:00,"Neo4j","neo4j","#tbt
+
+Common Confusions on #Cypher (and How to Avoid Them)
+
+https://t.co/ZodPgVSPMt
+@_nicolemargaret https://t.co/Nw9QgUAVGn","en",,
+905823162268602368,2017/09/07 12:00:45 -04:00,"Martin Seeler","Chasmo90","Now live meetup of @neo4j about efficient graph algorithms! 
+https://t.co/GsDLVcIoVo","en",,
+905822652811558912,2017/09/07 11:58:44 -04:00,"Vijaysabari","vijaysabari","Discover how you can empower people to uncover hidden Oracle EBS data patterns using Pentaho (Open Source)… https://t.co/TDkv2XFJfR","en",,
+905821305433444352,2017/09/07 11:53:23 -04:00,"NajiAlmahmoud","NajiAlmahmoud","Love this statement ""If you torture the data long enough, it will confess"" https://t.co/YnIwjWSScG","en",,
+905819795001667584,2017/09/07 11:47:23 -04:00,"True Digital Com","TrueDigitalCom","From @ZimanaAnalytics #CMWorld shout out to @Supermetrics Data Grabber for @msexcel  @neo4j @tableau @DataHero","en",,
+905817194801627137,2017/09/07 11:37:03 -04:00,"SaschaOehl","SaschaOehl","RT Pentaho: The web was born 26 years ago. How have things changed? What’s next? Read the latest from HDScorp Stev… https://t.co/eYgShTQ1Cr","en",,
+905816888999116801,2017/09/07 11:35:50 -04:00,"NoSQL Weekly","nosqlweekly","NoSQL Weekly - Issue 352  https://t.co/jf4cK4JKxg #nosql #riak #mongodb #redis #spark #neo4j #couchbase #dynamodb #cassandra #couchdb","en",,
+905816727753195520,2017/09/07 11:35:11 -04:00,"Neo4j Germany","Neo4jDE","#Neo4j Basics Workshop – #Berlin, Deutschland
+Donnerstag, 5. Oktober um 9:00 CEST
+
+https://t.co/a3yl79hMcb
+mit… https://t.co/DKAgCKh4o3","de",,
+905815568787361792,2017/09/07 11:30:35 -04:00,"Pentaho","Pentaho","The web was born 26 years ago. How have things changed? What’s next? Read the latest from @HDScorp @SteveGL… https://t.co/8aML7dY9Nb","en",,
+905812696997781505,2017/09/07 11:19:10 -04:00,"Hugo Girard","El_Programmador","Interesting the version 3.2.1 of Neo4j have intellisence in the browser.","en",,
+905810115248435200,2017/09/07 11:08:55 -04:00,"Brandon","usbrandon","Our thoughts are with those at @Pentaho, but especially in Florida.","en",,
+905808662295445504,2017/09/07 11:03:08 -04:00,"TruSTAR Technology","trustartech","We love our @neo4j graph database. Great explainer from @FederalTimes about why GraphDBs are ideal for cyber https://t.co/ToQAcGC3Ub","en",,
+905808452219539458,2017/09/07 11:02:18 -04:00,"Neo4j France","Neo4jFr","#tbt
+
+Les confusions fréquentes dans #Cypher (et comment les éviter)
+
+https://t.co/0D4eOZq3UC
+@_nicolemargaret","fr",,
+905808082504216577,2017/09/07 11:00:50 -04:00,"Neo4j","neo4j","#Neo4j GraphTalk – Brussels, Belgium
+Thursday, 14 September @ 08:30 CEST
+  
+https://t.co/xZMTBIsZPz
+with… https://t.co/31ATF61omg","en",,
+905804368078807040,2017/09/07 10:46:05 -04:00,"Kodetalk","kodetalk","How to create Bidirectional relationship in #Neo4j?  https://t.co/EJinOsc4Lk https://t.co/QuFNcaLydI","en",,
+905801001919184896,2017/09/07 10:32:42 -04:00,"Sarah Lafferty","ladylaff","Reply to the Tweet below and win your copy of ""The Future of IoT"" book https://t.co/jQryqHJtM5","en",,
